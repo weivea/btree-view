@@ -1,0 +1,12 @@
+.c_tree_node_text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0 4px;
+  text-align: center;
+  user-select: none;
+}
+svg.c_tree_svg {
+  margin: 0 auto;
+  display: block;
+}
